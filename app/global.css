@@ -1,0 +1,5 @@
+/* mínimo para reset */
+*{box-sizing:border-box}
+html,body{height:100%}
+body{font-family:system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif}
+a{text-decoration:none}
